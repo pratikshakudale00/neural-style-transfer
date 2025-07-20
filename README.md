@@ -7,9 +7,9 @@
 
 *DOMAIN*:AI(ARTIFICIAL INTELLIGENCE)
 
-*DURATION*:4 WEEK
+*DURATION*:4 WEEKS
 
-*MENTOR*:VAISHALI
+*MENTOR*:NEELA SANTOSH
 
 ##Project Description
 As part of my internship at CODETECH IT SOLUTIONS, I was assigned Task-3: to build a Neural Style Transfer Tool using Python. The aim was to implement a model that transfers the artistic style of one image (e.g., a painting) onto the content of another (e.g., a photo). This task allowed me to explore key concepts in deep learning and computer vision, especially using pre-trained TensorFlow models.
