@@ -15,7 +15,7 @@
 As part of my internship at CODETECH IT SOLUTIONS, I was assigned Task-3: to build a Neural Style Transfer Tool using Python. The aim was to implement a model that transfers the artistic style of one image (e.g., a painting) onto the content of another (e.g., a photo). This task allowed me to explore key concepts in deep learning and computer vision, especially using pre-trained TensorFlow models.
 
 I used Google Colab for execution and testing, which helped me overcome local environment limitations. The final output showcases how a content image is stylized using the style of another image.
-----
+
 🧠 Key Learnings and Implementation
 🔹 1. Neural Style Transfer Concept
 
@@ -51,4 +51,5 @@ TensorFlow Hub
 
 NumPy, Pillow, Matplotlib
 
-
+#OUTPUT
+<img width="1279" height="735" alt="Image" src="https://github.com/user-attachments/assets/eb017983-2c3f-4825-9aca-66398f3e4daf" />
