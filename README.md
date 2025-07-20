@@ -16,6 +16,8 @@ As part of my internship at CODETECH IT SOLUTIONS, I was assigned Task-3: to bui
 
 I used Google Colab for execution and testing, which helped me overcome local environment limitations. The final output showcases how a content image is stylized using the style of another image.
 
+---
+
 🧠 Key Learnings and Implementation
 
  1. Neural Style Transfer Concept
@@ -41,6 +43,7 @@ Performed style transfer using the loaded model.
 
 Displayed and saved the stylized output using matplotlib and PIL.
 
+---
 
 ⚙️ Tools & Technologies
 Google Colab (preferred)
@@ -52,6 +55,8 @@ TensorFlow 2.x
 TensorFlow Hub
 
 NumPy, Pillow, Matplotlib
+
+---
 
 #OUTPUT
 <img width="1003" height="439" alt="Image" src="https://github.com/user-attachments/assets/54f16a1c-a90d-4a6f-b5b7-5ccfdd7499fe" />
