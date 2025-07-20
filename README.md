@@ -52,4 +52,4 @@ TensorFlow Hub
 NumPy, Pillow, Matplotlib
 
 #OUTPUT
-<img width="1279" height="735" alt="Image" src="https://github.com/user-attachments/assets/eb017983-2c3f-4825-9aca-66398f3e4daf" />
+<img width="1003" height="439" alt="Image" src="https://github.com/user-attachments/assets/54f16a1c-a90d-4a6f-b5b7-5ccfdd7499fe" />
