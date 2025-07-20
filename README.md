@@ -59,4 +59,4 @@ NumPy, Pillow, Matplotlib
 ---
 
 #OUTPUT
-<img width="1003" height="439" alt="Image" src="https://github.com/user-attachments/assets/54f16a1c-a90d-4a6f-b5b7-5ccfdd7499fe" />
+<img width="1178" height="519" alt="Image" src="https://github.com/user-attachments/assets/e0705b1d-167f-4eb9-80ce-f7de5eee7175" />
